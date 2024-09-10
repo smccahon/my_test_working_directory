@@ -7,3 +7,10 @@ This test repository contains some dummy files to test how Git works.
 
 Semester: Fall 2024
 Classroom: JEB 221
+
+Topics covered:
+
+* Intro to Reproducible Science
+* Project organization
+* Version control with Git
+* Collaborative science with GitHub
